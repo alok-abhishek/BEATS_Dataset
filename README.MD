@@ -40,4 +40,5 @@ If you use **BEATS: Bias Evaluation and Assessment Test Suite for Large Language
   primaryClass={cs.CL},
   url={https://arxiv.org/abs/2503.24310}
 }
-
+```
+</details>
