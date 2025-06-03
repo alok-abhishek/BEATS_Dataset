@@ -1,7 +1,5 @@
 ### BEATS or Bias Evaluation and Assessment Test Suite is a research focused on systematic analysis and empirical investigation of fairness and bias in GenAI models to develop an integrated framework for data governance in GenAI systems. 
 
-Preprint of the paper is available on arXiv [BEATS: Bias Evaluation and Assessment Test Suite for Large Language Models](https://arxiv.org/abs/2503.24310) and [doi](https://doi.org/10.48550/arXiv.2503.24310).
-
 #### Research abstract: 
 
 - **Measuring and detecting bias, ethics, fairness and factuality related metrics in LLMs.** 
@@ -17,28 +15,3 @@ In this research, we introduce BEATS, a novel framework for evaluating Bias, Eth
 - **BEATS eval results dataset is available in dataset/beats_eval/eval_dataset/beats_eval_dataset_20250514_175840.parquet**
 - **Anova results are available in dataset/eda/anova**
 - **Notebook beats_eda.ipynb contains code to explore and analyze the data**
-
-### Citation
-
-If you use **BEATS: Bias Evaluation and Assessment Test Suite for Large Language Models**, please cite:
-
-> Alok Abhishek, Lisa Erickson, and Tushar Bandopadhyay.  
-> *BEATS: Bias Evaluation and Assessment Test Suite for Large Language Models*. arXiv:2503.24310 [cs.CL], 2025.  
-> [https://arxiv.org/abs/2503.24310](https://arxiv.org/abs/2503.24310)
-
-
-<details>
-<summary>BibTeX</summary>
-
-```bibtex
-@misc{abhishek2025beatsbiasevaluationassessment,
-  title={BEATS: Bias Evaluation and Assessment Test Suite for Large Language Models}, 
-  author={Alok Abhishek and Lisa Erickson and Tushar Bandopadhyay},
-  year={2025},
-  eprint={2503.24310},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL},
-  url={https://arxiv.org/abs/2503.24310}
-}
-```
-</details>
